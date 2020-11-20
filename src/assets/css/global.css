@@ -1,0 +1,45 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0em;
+    /* min-width: 1366px; */
+}
+.el-step__title.is-wait {
+    color:black !important;
+}
+
+.el-tabs--left .el-tabs__item.is-left {
+    text-align: right;
+    font-size: 20px !important;
+}
+.el-form-item__label{
+    font-size: 19px;
+}
+
+.el-input-group__append button.el-button{
+    color: blue;
+}
+.el-tab-pane{
+    /* width: 755.8px; */
+    height: 337.6px;
+}
+.el-step__description {
+    font-size: 14px;
+}
+.el-submenu__title {
+    font-size: 16px;
+}
+.el-breadcrumb{
+    font-size: 17px;
+    padding-bottom: 12px;
+}
+.el-card {
+    margin-top: 10px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+.el-table {
+    margin-top: 15px;
+    font-size: 15px;
+}
